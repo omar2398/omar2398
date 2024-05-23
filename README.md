@@ -89,10 +89,11 @@ Skills: `Software Architecture` `Object Oriented Programming` `Software Quality`
 [**ICPC SCU**](https://icpc-scu-official-website.me/)  • In progress\
 Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algorithms` `C/C++`
 
-[<img align="left" height="94px" width="94px" alt="ICPC SCU" src="[https://icpc-scu-official-website.me/static/media/second-logo.0e8539aadfee7a882214.png](https://scontent.fcai19-2.fna.fbcdn.net/v/t39.30808-1/277097635_1570583273316221_8165832653849093869_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEhS3-UDzLbxZApx6lav8iux160IxllvYzHXrQjGWW9jFO5hsNCohSUmWGdvh7gWgPAY4dqy7j-h76Ln7zANyiw&_nc_ohc=gXCfjb7jQt0Q7kNvgFLfr9U&_nc_ht=scontent.fcai19-2.fna&oh=00_AYBtK6ZECUfmfbPZf1UJIZsK5vxPRI-ucJbFYO0ZsbuoWw&oe=6654F0B9)"/>](https://icpc-scu-official-website.me/)
+[<img align="left" height="94px" width="94px" alt="ICPC SCU" src="src=https://icpc-scu-official-website.me/static/media/second-logo.0e8539aadfee7a882214.png"/>](https://www.facebook.com/SCURacingTeam/)
 **Dashboard Technical‎ at Racing team** \
-[**Racing SCU**](https://www.facebook.com/SCURacingTeam/)  • In progress\
-Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algorithms` `C/C++`
+[**Racing SCU**](https://icpc-scu-official-website.me/)  • In progress\
+Skills:  `DashBoard` `Data Structures and Algorithms` `C` `embedded Systems` `microcontroller` `Arduino` `TeamWork`
+
 
 <br>
 
