@@ -46,11 +46,17 @@
 #### Tools:
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=neovim"/>](https://neovim.io/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vim"/>](https://www.vim.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ubuntu"/>](https://ubuntu.com/)
-
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)  
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=xd"/>](https://helpx.adobe.com/support/xd.html)  
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/help/idea/java-compiler.html)   
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=obsidian"/>](https://obsidian.md/)   
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postman"/>](https://postman.com/) 
+  
 #### Familiar User with:
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/The_C_Programming_Language)
@@ -67,7 +73,7 @@
 [<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://artlanguage.com.sa/wp-content/uploads/2020/12/footer-logo.png"/>](https://artlanguage.com.sa/)
 **Software engineer - junior application developer** \
 [**Art Language**](https://artlanguage.com.sa/)  • In progress\
-Skills:  `team work` `application development` `design patterns` `C/C++`
+Skills:  `team work` `debug` `feat` `docs` `refac` `perf` `test` `sec` `ui` `net` `api` `db` `dep` `arch` `mvvm` `bloc` `prov` `pkg` `plugin` `lib`
 
 <br>
 
