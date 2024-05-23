@@ -58,7 +58,19 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=py"/>](https://www.python.org/)
   
 
+<be>
+
 <br>
+
+## Current Work:
+
+[<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://artlanguage.com.sa/wp-content/uploads/2020/12/footer-logo.png"/>](https://artlanguage.com.sa/)
+**Software engineer - junior application developer** \
+[**Art Language**](https://artlanguage.com.sa/)  • In progress\
+Skills:  `team work` `application development` `design patterns` `C/C++`
+
+<br>
+
 
 ## Academic Background:
 
@@ -82,6 +94,6 @@ Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algori
 
 ## Contact me:
 <div>
-<a href = "mailto: ahmadabdelrazik159@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/AhmadAbdelrazik/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto: omarsteven2398@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/omar-mohamed-615158236/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
