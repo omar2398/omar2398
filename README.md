@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Ahmad+Abdelrazik;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Omar+Mohamed;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
 
 <h3 align="center">"Make it work, make it right, make it fast."</h3>
 <h4 align="center">- Kent Beck -</h4>
