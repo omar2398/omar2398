@@ -94,7 +94,7 @@ Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algori
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="Racing SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tFmPbhvggzfwdSAYvxM1G-uw36_aPVDI_A&s"/>](https://www.facebook.com/SCURacingTeam/)
+[<img align="left" height="94px" width="94px" alt="Racing SCU" src="https://st2.depositphotos.com/5087307/11866/v/950/depositphotos_118661046-stock-illustration-racing-team-logo-template.jpg"/>](https://www.facebook.com/SCURacingTeam/)
 **Dashboard Technical‎ at Racing team** \
 [**Racing SCU**](https://icpc-scu-official-website.me/)  • In progress\
 Skills:  `DashBoard` `Data Structures and Algorithms` `C` `embedded Systems` `microcontroller` `Arduino` `TeamWork`
