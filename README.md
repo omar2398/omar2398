@@ -1,4 +1,5 @@
-<img src="https://content.presentermedia.com/files/animsp/00002000/2199/darts_hit_target_lg_wm.gif" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 
 <br>
 
@@ -88,6 +89,10 @@ Skills: `Software Architecture` `Object Oriented Programming` `Software Quality`
 **Member of ICPC SCU team** \
 [**ICPC SCU**](https://icpc-scu-official-website.me/)  • In progress\
 Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algorithms` `C/C++`
+
+<be>
+
+<br>
 
 [<img align="left" height="94px" width="94px" alt="ICPC SCU" src="src=https://icpc-scu-official-website.me/static/media/second-logo.0e8539aadfee7a882214.png"/>](https://www.facebook.com/SCURacingTeam/)
 **Dashboard Technical‎ at Racing team** \
